@@ -1,10 +1,10 @@
 import React from 'react';
-import TablaInventario from './components/TablaInventario';
+import TablaProducto from './components/TablaProducto';
 
 function App() {
   return (
     <div className="App">
-      <TablaInventario />
+      <TablaProducto />
     </div>
   );
 }
